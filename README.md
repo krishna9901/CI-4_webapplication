@@ -128,9 +128,9 @@ Developed an admin interface for managing Questionaire data, including:
 Authentication:
 
 ● Implement user authentication using PHP sessions or tokens.
-![alt text](image.png)
+![alt text](image-21.png)
 ● Store user credentials securely in a database with hashed passwords.
-![alt text](image-1.png)
+![alt text](image-22.png)
 Authorization:
 
 ● Created a system to manage user roles and permissions (Admin and Client).
