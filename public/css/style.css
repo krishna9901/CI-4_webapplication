@@ -72,9 +72,18 @@ a, a:hover, a:focus {
 
 }
 
+.lgn label{
+    color:#fff ! important;
+}
+
+.d-grid  label{
+    color:#fff ! important;
+}
+
 .bg-color{
    
-    background-color:#7712eb;
+    /* background-color:#7712eb; */
+    background-color: #40E0D0;
 }
 .nav-item {
     color:#fff ! important;
